@@ -1,0 +1,1 @@
+HATs intro -> http://www.raspberrypi.org/introducing-raspberry-pi-hats/
